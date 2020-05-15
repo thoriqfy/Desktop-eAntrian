@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="eAntrian_Skeleton_.Dokter">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Dokter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eAntrian_Skeleton_.AntrianNow">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAQAAAAAAAAAIIAAQCAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AntrianNow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eAntrian_Skeleton_.Admin">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eAntrian_Skeleton_.Pasien">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAQQAA=</HashCode>
+      <FileName>Pasien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eAntrian_Skeleton_.aDokter">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAgAAAAAAQAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>aDokter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="eAntrian_Skeleton_.aObat">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAABAAAAAQAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>aObat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
